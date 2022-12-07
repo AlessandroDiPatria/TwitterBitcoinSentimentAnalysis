@@ -1,1 +1,1 @@
-[embed]http://example.com/file.pdf[/embed]
+[embed]https://github.com/AlessandroDiPatria/TwitterBitcoinSentimentAnalysis/blob/main/Alessandro-DiPatria-ML21-22%20REPORT.pdf[/embed]
