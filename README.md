@@ -1,4 +1,8 @@
+# Twitter Bitcoin Sentiment Analysis
 
+## About the dataset 
+The project is about predicting the sentiment of tweets about Bitcoin.
+The dataset is provided at this link : https://www.kaggle.com/datasets/skularat/bitcoin-tweets . The dataset choiced contains only few but important features like text,username,Date,Dateonly, Url of the tweet, Retweet by Users, number of likes and finally the label column composed by the following classes: “Positive”,”Negatives” and “Neutral”
 
 
 
