@@ -1,1 +1,1 @@
-[embed] https://github.com/AlessandroDiPatria/TwitterBitcoinSentimentAnalysis/blob/main/Alessandro-DiPatria-ML21-22%20REPORT.pdf [/embed]
+[Alessandro-DiPatria-ML21-22 REPORT.pdf](https://github.com/AlessandroDiPatria/TwitterBitcoinSentimentAnalysis/files/10180390/Alessandro-DiPatria-ML21-22.REPORT.pdf)
