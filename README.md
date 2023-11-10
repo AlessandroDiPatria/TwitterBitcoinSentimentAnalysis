@@ -1,4 +1,4 @@
-# Twitter Bitcoin Sentiment Analysis
+# Twitter Sentiment Analysis
 
 ## About the dataset 
 The project is about predicting the sentiment of tweets about Bitcoin.
